@@ -1,0 +1,1 @@
+Baiardi, A., Naghi, A. (2024): The Effect of plough agriculture on gender roles: A machine learning approach (Replication Data). Version: 1. Journal of Applied Econometrics. Dataset. https://doi.org/10.15456/jae.2024158.1518311843

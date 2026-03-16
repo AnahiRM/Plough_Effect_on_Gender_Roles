@@ -1,0 +1,13 @@
+% latex table generated in R 4.5.2 by xtable 1.8-4 package
+% Sat Mar  7 00:28:44 2026
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrrrrrr}
+  \hline
+ & Lasso & Trees & Boosting & Forest & Nnet & Ensemble & Best \\ 
+  \hline
+Median ATE & -41.742 & -37.035 & -39.283 & -34.938 & -21.500 &  & -36.509 \\ 
+  se & 15.370 & 12.603 & 13.170 & 12.464 & 18.171 &  & 19.069 \\ 
+   \hline
+\end{tabular}
+\end{table}
